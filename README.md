@@ -1,2 +1,2 @@
 # tennis
-this is my new progetct and i am trying to download it to github
+this is my new progect and i am trying to download it to github
